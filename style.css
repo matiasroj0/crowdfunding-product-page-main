@@ -68,7 +68,7 @@ nav {
 
 .mobile-nav {
     position: absolute;
-    bottom: 33rem;
+    top: 3rem;
     width: 100%;
     z-index: 10;
 }
@@ -705,8 +705,6 @@ input::-webkit-inner-spin-button {
     .enter-your-pledge-span {
         padding-top: 1rem;
     }
-
-   
 
     .success-modal {
         position: absolute;
