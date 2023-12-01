@@ -754,7 +754,7 @@ input::-webkit-inner-spin-button {
 
     .desktop-nav a:hover {
         text-decoration: underline;
-        text-decoration-color: #c5c5c5;
+        text-decoration-color: #c5c5c5cb;
     }
 
     .hidden {
