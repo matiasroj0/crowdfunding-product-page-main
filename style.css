@@ -752,6 +752,11 @@ input::-webkit-inner-spin-button {
         margin-left: -1.3rem;
     }
 
+    .desktop-nav a:hover {
+        text-decoration: underline;
+        text-decoration-color: #c5c5c5;
+    }
+
     .hidden {
         display: none;
     }
